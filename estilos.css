@@ -34,6 +34,10 @@ p {
     width: 500px;
 }
 
+.sobre {
+    text-decoration: none;
+}
+
 .final {
     padding: 0;
     text-align: center;
