@@ -84,7 +84,10 @@
         width: 80%;
         margin: 0 auto;
         padding: 10px;
-        font-size: medium;
+    }
+    
+    figcaption {
+        font-size: small;
     }
 
     .imagem {
