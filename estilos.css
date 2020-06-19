@@ -1,0 +1,97 @@
+@media (min-width: 1024px){
+    body {
+        margin: 0 auto 50px;
+        width: 70%;
+        
+    }
+    
+    .bloco {
+        width: 90%;
+        margin: 0 auto;
+        background-color: #f2eded;
+        border: 1px solid #ccc;
+    }
+    
+    h1 {
+        margin-left: 50px;
+    }
+
+    figure {
+        float: right;
+        padding: 15px;
+        margin: 5px 30px;
+    }
+    .imagem {
+        width: 300px;
+    }
+}
+
+@media (max-width: 1023px){
+    body {
+        margin: 0 auto 50px;
+        width: 90%;
+    }
+    
+    .bloco {
+        width: 90%;
+        margin: 0 auto;
+        background-color: #f2eded;
+        border: 1px solid #ccc;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    h2 {
+        text-align: center;
+    }
+
+    figure {
+        width: 250px;
+        margin: 0 auto;
+        padding: 10px;
+    }
+
+    .imagem {
+        width: 250px;
+    }
+}
+
+h1 {
+    font-family: serif;
+}
+
+h2 {
+    margin-left: 50px;
+    margin-right: 40px;
+    padding-bottom: 2px;
+    border-bottom: 2px solid #333333;
+}
+
+figure {
+    background-color: #ccc;
+    border: 1px solid #b4b4b4;
+}
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    text-align: justify;
+    padding: 0 45px;
+    text-indent: 25px;
+    font-size: 18px;
+}
+
+.poema {
+    font-style: italic;
+    margin: auto;
+    width: 350px;
+}
+
+.final {
+    text-align: center;
+}
