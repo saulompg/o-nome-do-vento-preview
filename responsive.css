@@ -111,4 +111,9 @@
         margin: 0 auto;
         width: 320px;
     }
+    
+    .final {
+        width: 100px;
+        margin: 0 auto;
+    }
 }
